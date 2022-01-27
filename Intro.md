@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asphalt2021
 - 👀 I’m interested in applied data science.
 - 🌱 I’m currently learning ibm watson studio and google cloud.
-- 💞️ I’m looking to collaborate on Kaggle.
+- 💞️ I’m looking to collaborate on Kaggle, Gitlab.
 - 📫 How to reach me ... monsijsarkar2201@gmail.com
 
 <!---
